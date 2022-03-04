@@ -1,0 +1,4 @@
+nam=("fazu","fathima","munni")
+names=("basheera","yaseen")
+print(nam,names)
+('fazu', 'fathima', 'munni') ('basheera', 'yaseen')
